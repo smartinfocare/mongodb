@@ -1,0 +1,23 @@
+{
+  "name": "node-js-api-using-mongo-db-with-react-js-frontend",
+  "version": "1.0.0",
+  "description": "application made by sics ",
+  "main": "node index.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "MongoDB",
+    "CRUD",
+    "RestAPI"
+  ],
+  "author": "SICS",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
